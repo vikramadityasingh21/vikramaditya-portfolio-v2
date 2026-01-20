@@ -1,0 +1,108 @@
+{
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "readMore": "Leer más",
+    "learnMore": "Saber más",
+    "backToHome": "Volver al inicio",
+    "downloadPDF": "Descargar PDF",
+    "shareArticle": "Compartir este artículo"
+  },
+  "nav": {
+    "home": "Inicio",
+    "experience": "Experiencia",
+    "capabilities": "Capacidades",
+    "work": "Trabajo",
+    "principles": "Principios",
+    "education": "Educación",
+    "writing": "Escritos",
+    "resume": "Currículum"
+  },
+  "hero": {
+    "available": "Disponible para puestos de liderazgo",
+    "title": "Líder de Producto y Plataforma con IA",
+    "subtitle": "Líder de Producto y Plataforma con IA que aporta rigor científico, pensamiento sistémico y juicio empresarial a programas de transformación complejos.",
+    "viewResume": "Ver currículum",
+    "downloadResume": "Descargar currículum",
+    "viewCaseStudies": "Ver casos de estudio",
+    "stat1Label": "Años",
+    "stat1Value": "10+ años",
+    "stat2Label": "Impacto",
+    "stat2Value": "$5.6B",
+    "stat3Label": "Eficiencia",
+    "stat3Value": "60%"
+  },
+  "work": {
+    "sectionTitle": "Productos con IA",
+    "sectionSubtitle": "No productos con IA — Productos diseñados, entregados y evolucionados usando IA",
+    "sectionDescription": "IA integrada en todo el ciclo de vida: desde el descubrimiento y la síntesis, pasando por la priorización y el análisis de escenarios, hasta la medición de entrega y el aprendizaje continuo. Esta es la IA como multiplicador de fuerza, no como característica.",
+    "viewCaseStudy": "Ver caso de estudio",
+    "seeAllProjects": "Ver todos los proyectos"
+  },
+  "education": {
+    "sectionTitle": "Educación y Credenciales",
+    "sectionSubtitle": "Fundamento académico",
+    "sectionDescription": "Rigor científico de la investigación en biotecnología de Northwestern + experiencia en IA/ML + Pensamiento estratégico del MBA de Ivey",
+    "certifications": "Certificaciones profesionales",
+    "viewFullBackground": "Ver trayectoria académica completa e investigación"
+  },
+  "blog": {
+    "title": "Escritos",
+    "subtitle": "Reflexiones sobre Gestión de Productos, Estrategia de IA y Diseño Organizacional",
+    "backToArticles": "← Volver a todos los artículos",
+    "minRead": "min de lectura",
+    "readTime": "{{time}} min de lectura",
+    "publishedOn": "Publicado el",
+    "updatedOn": "Actualizado el",
+    "shareOnLinkedIn": "Compartir en LinkedIn",
+    "shareOnTwitter": "Compartir en Twitter",
+    "copyLink": "Copiar enlace",
+    "relatedArticles": "Artículos relacionados",
+    "series": "Serie",
+    "category": "Categoría",
+    "tags": "Etiquetas"
+  },
+  "portfolio": {
+    "title": "Casos de Estudio",
+    "subtitle": "Productos y Plataformas impulsados por IA a escala",
+    "backToPortfolio": "← Volver a todos los proyectos",
+    "overview": "Descripción general",
+    "challenge": "Desafío",
+    "approach": "Enfoque",
+    "impact": "Impacto",
+    "outcome": "Resultado",
+    "results": "Resultados",
+    "technologies": "Tecnologías utilizadas",
+    "role": "Rol",
+    "company": "Empresa",
+    "duration": "Duración",
+    "viewLiveProject": "Ver proyecto en vivo"
+  },
+  "about": {
+    "title": "Acerca de mí",
+    "education": "Educación",
+    "research": "Investigación",
+    "publications": "Publicaciones",
+    "speaking": "Conferencias"
+  },
+  "contact": {
+    "title": "Contacto",
+    "name": "Nombre",
+    "email": "Email",
+    "message": "Mensaje",
+    "send": "Enviar mensaje",
+    "successMessage": "¡Gracias! Te responderé pronto.",
+    "errorMessage": "Lo siento, algo salió mal. Por favor, inténtalo de nuevo."
+  },
+  "footer": {
+    "navigation": "Navegación",
+    "connect": "Conectar",
+    "projects": "Proyectos",
+    "allProjects": "Todos los proyectos",
+    "gentech": "GovTech",
+    "enterprise": "Empresa",
+    "ecommerce": "E-Commerce",
+    "copyright": "© {{year}} Vikramaditya Singh. Todos los derechos reservados.",
+    "builtWith": "Construido con Next.js y Tailwind CSS"
+  }
+}

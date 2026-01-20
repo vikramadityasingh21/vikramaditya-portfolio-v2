@@ -1,0 +1,30 @@
+# Robots.txt for Vikramaditya Singh Portfolio
+
+# Allow all search engines
+User-agent: *
+Allow: /
+
+# Disallow admin and private areas
+Disallow: /api/
+Disallow: /.next/
+Disallow: /node_modules/
+
+# Allow specific paths
+Allow: /
+Allow: /about-me
+Allow: /services
+Allow: /portfolio
+Allow: /resume
+Allow: /contact
+Allow: /blog
+
+# Sitemap location
+Sitemap: https://yourdomain.com/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1
+
+# Specific rules for Google
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0

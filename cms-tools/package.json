@@ -1,0 +1,13 @@
+{
+  "name": "cms-tools",
+  "version": "1.0.0",
+  "description": "Simple CMS tools for adding content to your website",
+  "scripts": {
+    "add:article": "node add-article.js",
+    "add:portfolio": "node add-portfolio.js",
+    "list:articles": "node list-articles.js"
+  },
+  "keywords": ["cms", "content"],
+  "author": "Vikramaditya",
+  "license": "MIT"
+}

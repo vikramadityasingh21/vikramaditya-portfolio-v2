@@ -1,0 +1,108 @@
+{
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "readMore": "Lire la suite",
+    "learnMore": "En savoir plus",
+    "backToHome": "Retour à l'accueil",
+    "downloadPDF": "Télécharger le PDF",
+    "shareArticle": "Partager cet article"
+  },
+  "nav": {
+    "home": "Accueil",
+    "experience": "Expérience",
+    "capabilities": "Compétences",
+    "work": "Projets",
+    "principles": "Principes",
+    "education": "Formation",
+    "writing": "Articles",
+    "resume": "CV"
+  },
+  "hero": {
+    "available": "Disponible pour des postes de direction",
+    "title": "Leader Produit & Plateforme axé sur l'IA",
+    "subtitle": "Leader Produit & Plateforme axé sur l'IA, apportant rigueur scientifique, pensée systémique et jugement commercial aux programmes de transformation complexes.",
+    "viewResume": "Voir le CV",
+    "downloadResume": "Télécharger le CV",
+    "viewCaseStudies": "Voir les études de cas",
+    "stat1Label": "Années",
+    "stat1Value": "10+ ans",
+    "stat2Label": "Impact",
+    "stat2Value": "5,6 Mds $",
+    "stat3Label": "Efficacité",
+    "stat3Value": "60%"
+  },
+  "work": {
+    "sectionTitle": "Produits axés sur l'IA",
+    "sectionSubtitle": "Pas des produits avec IA — Produits conçus, livrés et développés avec l'IA",
+    "sectionDescription": "L'IA intégrée tout au long du cycle de vie : de la découverte et de la synthèse, à la priorisation et à l'analyse de scénarios, jusqu'à la mesure de la livraison et l'apprentissage continu. L'IA comme multiplicateur de force, pas comme fonctionnalité.",
+    "viewCaseStudy": "Voir l'étude de cas",
+    "seeAllProjects": "Voir tous les projets"
+  },
+  "education": {
+    "sectionTitle": "Formation & Accréditations",
+    "sectionSubtitle": "Fondation académique",
+    "sectionDescription": "Rigueur scientifique de la recherche en biotechnologie de Northwestern + expertise en IA/ML + Pensée stratégique de l'MBA Ivey",
+    "certifications": "Certifications professionnelles",
+    "viewFullBackground": "Voir le parcours académique complet & recherche"
+  },
+  "blog": {
+    "title": "Articles",
+    "subtitle": "Réflexions sur la gestion de produit, la stratégie IA et la conception organisationnelle",
+    "backToArticles": "← Retour aux articles",
+    "minRead": "min de lecture",
+    "readTime": "{{time}} min de lecture",
+    "publishedOn": "Publié le",
+    "updatedOn": "Mis à jour le",
+    "shareOnLinkedIn": "Partager sur LinkedIn",
+    "shareOnTwitter": "Partager sur Twitter",
+    "copyLink": "Copier le lien",
+    "relatedArticles": "Articles connexes",
+    "series": "Série",
+    "category": "Catégorie",
+    "tags": "Étiquettes"
+  },
+  "portfolio": {
+    "title": "Études de cas",
+    "subtitle": "Produits et plateformes alimentés par l'IA à grande échelle",
+    "backToPortfolio": "← Retour aux projets",
+    "overview": "Aperçu",
+    "challenge": "Défi",
+    "approach": "Approche",
+    "impact": "Impact",
+    "outcome": "Résultat",
+    "results": "Résultats",
+    "technologies": "Technologies utilisées",
+    "role": "Rôle",
+    "company": "Entreprise",
+    "duration": "Durée",
+    "viewLiveProject": "Voir le projet en direct"
+  },
+  "about": {
+    "title": "À propos",
+    "education": "Formation",
+    "research": "Recherche",
+    "publications": "Publications",
+    "speaking": "Conférences"
+  },
+  "contact": {
+    "title": "Contactez-moi",
+    "name": "Nom",
+    "email": "Email",
+    "message": "Message",
+    "send": "Envoyer le message",
+    "successMessage": "Merci ! Je vous répondrai bientôt.",
+    "errorMessage": "Désolé, une erreur s'est produite. Veuillez réessayer."
+  },
+  "footer": {
+    "navigation": "Navigation",
+    "connect": "Connexion",
+    "projects": "Projets",
+    "allProjects": "Tous les projets",
+    "gentech": "GovTech",
+    "enterprise": "Entreprise",
+    "ecommerce": "E-Commerce",
+    "copyright": "© {{year}} Vikramaditya Singh. Tous droits réservés.",
+    "builtWith": "Construit avec Next.js et Tailwind CSS"
+  }
+}

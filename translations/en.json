@@ -1,0 +1,108 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "readMore": "Read More",
+    "learnMore": "Learn More",
+    "backToHome": "Back to Home",
+    "downloadPDF": "Download PDF",
+    "shareArticle": "Share this article"
+  },
+  "nav": {
+    "home": "Home",
+    "experience": "Experience",
+    "capabilities": "Capabilities",
+    "work": "Work",
+    "principles": "Principles",
+    "education": "Education",
+    "writing": "Writing",
+    "resume": "Resume"
+  },
+  "hero": {
+    "available": "Available for Leadership Roles",
+    "title": "AI-First Product & Platform Leader",
+    "subtitle": "AI-First Product & Platform Leader bringing scientific rigor, systems thinking, and business judgment to complex transformation programs.",
+    "viewResume": "View Resume",
+    "downloadResume": "Download Resume",
+    "viewCaseStudies": "View Case Studies",
+    "stat1Label": "Years",
+    "stat1Value": "10+ Years",
+    "stat2Label": "Impact",
+    "stat2Value": "$5.6B",
+    "stat3Label": "Efficiency",
+    "stat3Value": "60%"
+  },
+  "work": {
+    "sectionTitle": "AI-First Products",
+    "sectionSubtitle": "Not Products with AI — Products Designed, Delivered & Evolved Using AI",
+    "sectionDescription": "AI embedded across the entire lifecycle: from discovery and synthesis, through prioritization and scenario analysis, to delivery measurement and continuous learning. This is AI as a force multiplier, not a feature.",
+    "viewCaseStudy": "View Case Study",
+    "seeAllProjects": "See all projects"
+  },
+  "education": {
+    "sectionTitle": "Education & Credentials",
+    "sectionSubtitle": "Academic Foundation",
+    "sectionDescription": "Scientific rigor from Northwestern biotech research + AI/ML expertise + Strategic thinking from Ivey MBA",
+    "certifications": "Professional Certifications",
+    "viewFullBackground": "View full academic background & research"
+  },
+  "blog": {
+    "title": "Writing",
+    "subtitle": "Insights on Product Management, AI Strategy, and Organizational Design",
+    "backToArticles": "← Back to all articles",
+    "minRead": "min read",
+    "readTime": "{{time}} min read",
+    "publishedOn": "Published on",
+    "updatedOn": "Updated on",
+    "shareOnLinkedIn": "Share on LinkedIn",
+    "shareOnTwitter": "Share on Twitter",
+    "copyLink": "Copy Link",
+    "relatedArticles": "Related Articles",
+    "series": "Series",
+    "category": "Category",
+    "tags": "Tags"
+  },
+  "portfolio": {
+    "title": "Case Studies",
+    "subtitle": "AI-Powered Products & Platforms at Scale",
+    "backToPortfolio": "← Back to all projects",
+    "overview": "Overview",
+    "challenge": "Challenge",
+    "approach": "Approach",
+    "impact": "Impact",
+    "outcome": "Outcome",
+    "results": "Results",
+    "technologies": "Technologies Used",
+    "role": "Role",
+    "company": "Company",
+    "duration": "Duration",
+    "viewLiveProject": "View Live Project"
+  },
+  "about": {
+    "title": "About Me",
+    "education": "Education",
+    "research": "Research",
+    "publications": "Publications",
+    "speaking": "Speaking Engagements"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "successMessage": "Thank you! I'll get back to you soon.",
+    "errorMessage": "Sorry, something went wrong. Please try again."
+  },
+  "footer": {
+    "navigation": "Navigation",
+    "connect": "Connect",
+    "projects": "Projects",
+    "allProjects": "All Projects",
+    "gentech": "GovTech",
+    "enterprise": "Enterprise",
+    "ecommerce": "E-Commerce",
+    "copyright": "© {{year}} Vikramaditya Singh. All rights reserved.",
+    "builtWith": "Built with Next.js and Tailwind CSS"
+  }
+}
